@@ -1,4 +1,4 @@
-Smart Watch
+####Smart Watch
 
 Since you are a student of Coding Club, you are expected to work hard and get better results
 than others. To track your time and expected performance in the Machine Learning Challenge,
